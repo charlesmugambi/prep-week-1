@@ -1,0 +1,23 @@
+body{
+    color: #ddd;
+    background: url(images/11333.jpg) no-repeat center;
+}
+nav li{
+    display: inline-block;
+    margin-left: 30px;  
+}
+nav a{
+    color: #ddd;
+    text-decoration: none;
+}
+
+.image{
+    display: block;
+    margin: 0 auto;
+
+}
+.intro{
+    text-align: center;
+    font-weight: bolder;
+    font-size: 10em;
+}
